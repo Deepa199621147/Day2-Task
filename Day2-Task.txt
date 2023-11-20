@@ -1,0 +1,26 @@
+1.Write a blog on the difference between document and window objects?
+
+    - Explain what are doucument and window objectes and Why they are ipotanr 
+      for web development.
+
+    - Give Some examples of how to access and use decument and 
+      window properties and methods.
+
+Document objec:
+       
+     - Describe the document object as a represention of the web page
+       loded in the browser.
+
+      -Explain that the document object can be used to access and 
+       mainpulate the HTML elements,attributes,and CSS styles in
+       the page.
+
+Window object:
+
+       -Describe the window object as a representation of the browser
+        window or tab containing the doument object.
+
+       -Explain that the window objet can be used to access and manipulate the 
+        browser environment,such as the size,position,history,location,etc.
+        
+       
