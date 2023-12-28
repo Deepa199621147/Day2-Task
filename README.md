@@ -1,1 +1,1 @@
-Different between object and window operator
+Different between object document and windows objects
